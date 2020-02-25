@@ -1,0 +1,3 @@
+Title  Brepols Journal
+URL    http://brepols.metapress.com
+Domain metapress.com
