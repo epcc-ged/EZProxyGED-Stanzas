@@ -3,6 +3,7 @@ Title BrillOnline (updated 20190516)
 URL https://www.brill.com
 HJ https://brill.com
 HJ http://www.brillonline.com
+HJ www.brill.nl
 HJ babo.brillonline.nl
 HJ brill.com
 HJ bibliographies.brillonline.com
@@ -29,6 +30,7 @@ HJ https://booksandjournals.brillonline.com
 HJ https://brillonline.com
 HJ https://ebooks.brillonline.nl
 HJ https://brillonline.nl
+HJ http://www.brill.nl/ii
 HJ https://chinesereferenceshelf.brillonline.com
 HJ https://dictionaries.brillonline.com
 HJ https://iedo.brillonline.nl

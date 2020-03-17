@@ -90,8 +90,6 @@ Replace url =  "http://^Aonline.sagepub.com"
 #
 HJ https://m.uk.sagepub.com
 HJ https://m.us.sagepub.com
-HJ https://uk.sagepub.com
-HJ https://us.sagepub.com
 Host aaf.sagepub.com
 Host aan.sagepub.com
 Host aas.sagepub.com
@@ -203,7 +201,6 @@ Host bst.sagepub.com
 Host btb.sagepub.com
 Host bua.sagepub.com
 Host bul.sagepub.com
-Host businessresearcher.sagepub.com
 Host cac.sagepub.com
 Host cad.sagepub.com
 Host cae.sagepub.com
@@ -308,7 +305,6 @@ Host ctx.sagepub.com
 Host cus.sagepub.com
 Host cvd.sagepub.com
 Host das.sagepub.com
-Host data.sagepub.com
 Host dbm.sagepub.com
 Host dcm.sagepub.com
 Host dem.sagepub.com
@@ -359,7 +355,6 @@ Host eji.sagepub.com
 Host ejp.sagepub.com
 Host ejt.sagepub.com
 Host ejw.sagepub.com
-Host el.sagepub.com
 Host elj.sagepub.com
 Host elr.sagepub.com
 Host ema.sagepub.com
@@ -761,7 +756,6 @@ Host mej.sagepub.com
 Host men.sagepub.com
 Host met.sagepub.com
 Host method.sagepub.com
-Host methods.sagepub.com
 Host mhj.sagepub.com
 Host mia.sagepub.com
 Host mic.sagepub.com
@@ -987,7 +981,6 @@ Host sip.sagepub.com
 Host sir.sagepub.com
 Host sjp.sagepub.com
 Host sjs.sagepub.com
-Host sk.sagepub.com
 Host slg.sagepub.com
 Host slr.sagepub.com
 Host sls.sagepub.com
@@ -1088,7 +1081,6 @@ Host uar.sagepub.com
 Host ueg.sagepub.com
 Host uex.sagepub.com
 Host uix.sagepub.com
-Host uk.sagepub.com
 Host ult.sagepub.com
 Host upd.sagepub.com
 Host urb.sagepub.com
@@ -1120,7 +1112,6 @@ Host wox.sagepub.com
 Host wpj.sagepub.com
 Host wso.sagepub.com
 Host www.knowledge.sagepub.com
-Host www.sagepub.co.uk
 Host www.srmo.sagepub.com
 Host www.uk.sagepub.com
 Host yas.sagepub.com

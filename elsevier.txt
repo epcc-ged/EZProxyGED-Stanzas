@@ -9,7 +9,8 @@ HJ http://www.sciencedirect.com
 HJ sciencedirect.com
 HJ linkinghub.elsevier.com
 HJ https://linkinghub.elsevier.com
-HJ www.elsevier.com
+HJ http://www.elsevier.com
+HJ https://www.elsevier.com
 HJ admintool.elsevier.com
 HJ online.tableau.com
 HJ help-admintool.elsevier.com
@@ -39,8 +40,6 @@ Title Scopus (OCLC IncludeFile Updated 20190115)
 MimeFilter application/json .* javascript
 URL https://www.scopus.com/home.url
 HJ https://www.scopus.com
-HJ https://www.elsevier.com
-DJ www.elsevier.com
 HJ www.scopus.com
 DJ scopus.com
 Find %22%3A%22http%3A%2F%2Fsciverse-shindig.elsevier.com%2F
