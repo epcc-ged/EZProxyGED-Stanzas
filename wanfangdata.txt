@@ -3,3 +3,8 @@ H www.wanfangdata.com
 D wanfangdata.com
 HJ www.wanfangdata.comit
 DJ wanfangdata.com
+URL http://c.wanfangdata.com.cn/periodical
+H c.wanfangdata.com.cn/periodical
+D wanfangdata.com.cn
+HJ c.wanfangdata.com.cn/periodical
+DJ c.wanfangdata.com.cn
