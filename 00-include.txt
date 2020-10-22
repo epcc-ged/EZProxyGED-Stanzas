@@ -43,6 +43,7 @@ IncludeFile stanzas/fupress.txt
 IncludeFile stanzas/gesis.txt
 IncludeFile stanzas/hrcak.txt
 IncludeFile stanzas/ingentaconnect.txt
+IncludeFile stanzas/jama.txt
 IncludeFile stanzas/journalofjewishstudies.txt
 IncludeFile stanzas/jstor.txt
 IncludeFile stanzas/kiss.txt
@@ -83,6 +84,7 @@ IncludeFile stanzas/projecteuclid.txt
 IncludeFile stanzas/proquest.txt
 IncludeFile stanzas/rivisti.txt
 IncludeFile stanzas/sage.txt
+IncludeFile stanzas/ravignani.txt
 IncludeFile stanzas/revista-csic.txt
 IncludeFile stanzas/revistas-ucm.txt
 IncludeFile stanzas/revue-histoire-maths.txt
