@@ -1,2 +1,4 @@
 Title Renmin Ribao
 H www.people.com.cn
+H data.people.com.cn
+H paper.people.com.cn
