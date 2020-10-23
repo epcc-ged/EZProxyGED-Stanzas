@@ -83,6 +83,7 @@ IncludeFile stanzas/pennpress.txt
 IncludeFile stanzas/pcdnet.txt
 IncludeFile stanzas/projecteuclid.txt
 IncludeFile stanzas/proquest.txt
+IncludeFile stanzas/renmin-ribao.txt
 IncludeFile stanzas/rivisti.txt
 IncludeFile stanzas/sage.txt
 IncludeFile stanzas/ravignani.txt
