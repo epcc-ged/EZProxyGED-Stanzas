@@ -39,6 +39,7 @@ IncludeFile stanzas/erudit.txt
 IncludeFile stanzas/erwinrauner.txt
 IncludeFile stanzas/europresse.txt
 IncludeFile stanzas/factiva.txt
+IncludeFile stanzas/fpaindia.txt
 IncludeFile stanzas/fupress.txt
 IncludeFile stanzas/gesis.txt
 IncludeFile stanzas/hrcak.txt
