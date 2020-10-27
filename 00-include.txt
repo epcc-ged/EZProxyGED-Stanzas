@@ -91,6 +91,7 @@ IncludeFile stanzas/revista-csic.txt
 IncludeFile stanzas/revistas-ucm.txt
 IncludeFile stanzas/revue-histoire-maths.txt
 IncludeFile stanzas/royalsocietypublishing.txt
+IncludeFile stanzas/scholarworks.txt
 IncludeFile stanzas/scielo.txt
 IncludeFile stanzas/serialsjournals.txt
 IncludeFile stanzas/societehistoiretheatre.txt
