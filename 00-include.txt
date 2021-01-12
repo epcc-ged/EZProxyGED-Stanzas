@@ -17,6 +17,7 @@ IncludeFile stanzas/cambridgecore.txt
 IncludeFile stanzas/chadwyck.txt
 IncludeFile stanzas/chbeck.txt
 IncludeFile stanzas/chinaasiaondemand.txt
+IncludeFile stanzas/classiques-garnier.txt
 IncludeFile stanzas/cnki.txt
 IncludeFile stanzas/currenthistory.txt
 IncludeFile stanzas/datacite.txt
@@ -33,8 +34,8 @@ IncludeFile stanzas/economiepolitique.txt
 IncludeFile stanzas/ehraf.txt
 IncludeFile stanzas/eliphi.txt
 IncludeFile stanzas/elsevier.txt
-IncludeFile stanzas/emerald.txt
 IncludeFile stanzas/em-consulte.txt
+IncludeFile stanzas/emerald.txt
 IncludeFile stanzas/equinoxpub.txt
 IncludeFile stanzas/erudit.txt
 IncludeFile stanzas/erwinrauner.txt
@@ -42,6 +43,7 @@ IncludeFile stanzas/europresse.txt
 IncludeFile stanzas/factiva.txt
 IncludeFile stanzas/fpaindia.txt
 IncludeFile stanzas/fupress.txt
+IncludeFile stanzas/gale.txt
 IncludeFile stanzas/gesis.txt
 IncludeFile stanzas/hrcak.txt
 IncludeFile stanzas/ingentaconnect.txt
