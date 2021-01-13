@@ -113,5 +113,6 @@ IncludeFile stanzas/unizar.txt
 IncludeFile stanzas/university-press-of-chicago.txt
 IncludeFile stanzas/vandenhoeck-ruprecht.txt
 IncludeFile stanzas/vitaepensiero.txt
+IncludeFile stanzas/VLeBooks.txt
 IncludeFile stanzas/wanfangdata.txt
 IncludeFile stanzas/wiley-blackwell.txt
