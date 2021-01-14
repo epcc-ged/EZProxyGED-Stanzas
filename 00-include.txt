@@ -99,7 +99,7 @@ IncludeFile stanzas/scholarworks.txt
 IncludeFile stanzas/scielo.txt
 IncludeFile stanzas/serialsjournals.txt
 IncludeFile stanzas/societehistoiretheatre.txt
-IncludeFile stanzas/springer.txt
+IncludeFile stanzas/SpringerLink.txt
 IncludeFile stanzas/statisticky-urad.txt
 IncludeFile stanzas/summa-upsa.txt
 IncludeFile stanzas/tandf.txt
