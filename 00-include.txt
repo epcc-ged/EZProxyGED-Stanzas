@@ -17,6 +17,7 @@ IncludeFile stanzas/cambridgecore.txt
 IncludeFile stanzas/chadwyck.txt
 IncludeFile stanzas/chbeck.txt
 IncludeFile stanzas/chinaasiaondemand.txt
+IncludeFile stanzas/choicereviews.txt
 IncludeFile stanzas/classiques-garnier.txt
 IncludeFile stanzas/cnki.txt
 IncludeFile stanzas/currenthistory.txt
@@ -45,6 +46,7 @@ IncludeFile stanzas/fpaindia.txt
 IncludeFile stanzas/fupress.txt
 IncludeFile stanzas/gale.txt
 IncludeFile stanzas/gesis.txt
+IncludeFile stanzas/glossa.txt
 IncludeFile stanzas/hrcak.txt
 IncludeFile stanzas/ingentaconnect.txt
 IncludeFile stanzas/jama.txt
@@ -86,6 +88,7 @@ IncludeFile stanzas/pennpress.txt
 IncludeFile stanzas/pcdnet.txt
 IncludeFile stanzas/projecteuclid.txt
 IncludeFile stanzas/proquest.txt
+IncludeFile stanzas/proquestebookcentral.txt
 IncludeFile stanzas/renmin-ribao.txt
 IncludeFile stanzas/rivisti.txt
 IncludeFile stanzas/sage.txt
@@ -95,6 +98,7 @@ IncludeFile stanzas/revista-csic.txt
 IncludeFile stanzas/revistas-ucm.txt
 IncludeFile stanzas/revue-histoire-maths.txt
 IncludeFile stanzas/royalsocietypublishing.txt
+IncludeFile stanzas/santeettravail.txt
 IncludeFile stanzas/scholarworks.txt
 IncludeFile stanzas/scielo.txt
 IncludeFile stanzas/serialsjournals.txt
