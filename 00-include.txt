@@ -5,6 +5,7 @@ IncludeFile stanzas/ajph.txt
 IncludeFile stanzas/ash.txt
 IncludeFile stanzas/alexanderstreet.txt
 IncludeFile stanzas/alexanderstreetmarcrecords.txt
+IncludeFile stanzas/alternativeseconomiques.txt
 IncludeFile stanzas/annualreviews.txt
 IncludeFile stanzas/berghahnbooks.txt
 IncludeFile stanzas/bihr.txt
