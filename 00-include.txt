@@ -15,6 +15,7 @@ IncludeFile stanzas/brepolsonline.txt
 IncludeFile stanzas/brill.txt
 IncludeFile stanzas/cairn.txt
 IncludeFile stanzas/cambridgecore.txt
+IncludeFile stanzas/ceeol.txt
 IncludeFile stanzas/chadwyck.txt
 IncludeFile stanzas/chbeck.txt
 IncludeFile stanzas/chinaasiaondemand.txt
