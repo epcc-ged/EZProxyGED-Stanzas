@@ -22,6 +22,7 @@ IncludeFile stanzas/chinaasiaondemand.txt
 IncludeFile stanzas/choicereviews.txt
 IncludeFile stanzas/classiques-garnier.txt
 IncludeFile stanzas/cnki.txt
+IncludeFile stanzas/cresoi.txt
 IncludeFile stanzas/currenthistory.txt
 IncludeFile stanzas/datacite.txt
 IncludeFile stanzas/dbms.txt
@@ -42,6 +43,7 @@ IncludeFile stanzas/emerald.txt
 IncludeFile stanzas/equinoxpub.txt
 IncludeFile stanzas/erudit.txt
 IncludeFile stanzas/erwinrauner.txt
+IncludeFile stanzas/EsperantoStudies.txt
 IncludeFile stanzas/europresse.txt
 IncludeFile stanzas/factiva.txt
 IncludeFile stanzas/fpaindia.txt
@@ -50,7 +52,9 @@ IncludeFile stanzas/gale.txt
 IncludeFile stanzas/gesis.txt
 IncludeFile stanzas/glossa.txt
 IncludeFile stanzas/hrcak.txt
+IncludeFile stanzas/hcsp.txt
 IncludeFile stanzas/ingentaconnect.txt
+IncludeFile stanzas/insee.txt
 IncludeFile stanzas/jama.txt
 IncludeFile stanzas/journalofjewishstudies.txt
 IncludeFile stanzas/jstor.txt
@@ -85,9 +89,10 @@ IncludeFile stanzas/oxfordartonline.txt
 IncludeFile stanzas/oxfordmusiconline.txt
 IncludeFile stanzas/oxfordreference.txt
 IncludeFile stanzas/oxford-journals.txt
+IncludeFile stanzas/pcdnet.txt
 IncludeFile stanzas/peeters.txt
 IncludeFile stanzas/pennpress.txt
-IncludeFile stanzas/pcdnet.txt
+IncludeFile stanzas/persee.txt
 IncludeFile stanzas/projecteuclid.txt
 IncludeFile stanzas/proquest.txt
 IncludeFile stanzas/proquestebookcentral.txt
@@ -98,6 +103,7 @@ IncludeFile stanzas/ravignani.txt
 IncludeFile stanzas/retronews.txt
 IncludeFile stanzas/revista-csic.txt
 IncludeFile stanzas/revistas-ucm.txt
+IncludeFile stanzas/RevueFrancaiseMethodesVisuelles.txt
 IncludeFile stanzas/revue-histoire-maths.txt
 IncludeFile stanzas/royalsocietypublishing.txt
 IncludeFile stanzas/santeettravail.txt
@@ -106,6 +112,7 @@ IncludeFile stanzas/scielo.txt
 IncludeFile stanzas/serialsjournals.txt
 IncludeFile stanzas/societehistoiretheatre.txt
 IncludeFile stanzas/SpringerLink.txt
+IncludeFile stanzas/springeropen.txt
 IncludeFile stanzas/statisticky-urad.txt
 IncludeFile stanzas/summa-upsa.txt
 IncludeFile stanzas/tandf.txt
@@ -122,3 +129,4 @@ IncludeFile stanzas/vitaepensiero.txt
 IncludeFile stanzas/VLeBooks.txt
 IncludeFile stanzas/wanfangdata.txt
 IncludeFile stanzas/wiley-blackwell.txt
+
